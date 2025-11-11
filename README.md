@@ -1,5 +1,3 @@
- ## trabajoFinalProgramacionIntegrador
-  
  ## Trabajo Intregador Final.
  
  ## Integrantes del equipo 
