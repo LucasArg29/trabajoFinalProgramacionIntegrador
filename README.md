@@ -1,4 +1,4 @@
- #trabajoFinalProgramacionIntegrador
+ ## trabajoFinalProgramacionIntegrador
   
  ## Trabajo Intregador Final.
  
@@ -11,7 +11,7 @@
  ## Carrera.
  Tecnicatura superior en telecomunicaciones.
  
- ##Materia
+ ## Materia
  Programación.
  
  ## Programa Utilizado
