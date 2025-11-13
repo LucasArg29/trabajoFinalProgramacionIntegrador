@@ -13,7 +13,7 @@
  Programación.
  
  ## Programa Utilizado
- PseInt 
+ PseInt.
  
  ## Descripción Breve descripción del TFI.
  Como grupo, recomendamos estos ejercicios porque nos permitieron practicar y comprender de manera clara los conceptos básicos de programación,
